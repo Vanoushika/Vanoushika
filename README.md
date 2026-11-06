@@ -1,7 +1,7 @@
 # Hi there, I'm Anoushika Vennamaneni! 👋
 
 <p>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/anoushika/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/anoushika/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Vanoushika"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:anoushika.ve@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
@@ -15,7 +15,7 @@ AI Full-Stack Engineer with **3+ years of experience** spanning Python full-stac
 - 🛠️ Currently building: production-grade Generative AI applications for healthcare & life-sciences workflows
 - 🚀 Focus areas: Retrieval-Augmented Generation (RAG), agentic AI orchestration, LLM evaluation, cloud-native microservices
 - ☁️ **AWS Certified Developer – Associate**
-- 📍 Charlotte, NC (Remote) | Open to new opportunities
+- 📍 Frisco, TX | Open to opportunities across the US
 - 🎯 Actively seeking new AI/Full-Stack Engineering roles
 
 ## 🛠️ Tech Stack
@@ -24,8 +24,6 @@ AI Full-Stack Engineer with **3+ years of experience** spanning Python full-stac
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### AI & Generative AI
 ![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -35,7 +33,6 @@ AI Full-Stack Engineer with **3+ years of experience** spanning Python full-stac
 
 ### Backend & Frontend
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Databases & Vector Stores
@@ -51,5 +48,6 @@ AI Full-Stack Engineer with **3+ years of experience** spanning Python full-stac
 
 ## 📌 Featured Projects
 
-- **AI Customer Support & Ticket Resolution Platform** — Agentic AI platform using LangGraph, LangChain, and RAG to analyze tickets, retrieve knowledge, and assist with routing, with human-in-the-loop approval.
-- **AI Job Application Analytics Dashboard** — Full-stack platform with LLM-powered resume-to-job matching, skill-gap analysis, and application tracking analytics.
+- **[AI Meeting Assistant](https://github.com/Vanoushika/ai-meeting-assistant)** — Turns meeting recordings into transcripts, summaries, action items and decisions. FastAPI backend using Groq Whisper for transcription and Llama 3.3 for analysis, React frontend, deployed on Render + Vercel with a live demo.
+- **[Job Automation Tool](https://github.com/Vanoushika/job-automation-tool)** — Automated job-search pipeline that scrapes postings, scores them with an LLM (Groq) and serves results through a FastAPI + MongoDB backend with a scheduled daily run.
+- **[AI-Powered C++ Code Reviewer](https://github.com/Vanoushika/ai_cpp_reviewer)** — Offline static-analysis tool that flags unsafe functions, unused variables and potential memory leaks in C++ code, with AI-generated explanations and safer-code suggestions (Python, Streamlit, Hugging Face Transformers).
