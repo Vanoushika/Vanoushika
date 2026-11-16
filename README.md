@@ -1,4 +1,4 @@
-# Hi there, I'm Anoushika Vennamaneni! 👋
+# Hi there, I'm Anoushika! 👋
 
 <p>
   <a href="https://www.linkedin.com/in/anoushika/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
